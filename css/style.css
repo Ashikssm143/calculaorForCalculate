@@ -1,0 +1,39 @@
+
+.container{
+    margin: 0 auto;
+    width:380px;
+    
+}
+.row h1{
+    padding: 50px;
+}
+.calculator{
+    border-radius: 20%;
+    margin: 0 auto;
+    width:380px;
+    background: #301934;
+}
+.row{
+    text-align: center;
+    margin: 0 auto;
+    background: #36454F;
+    border-radius: 20%;
+}
+.input{
+    font-size: 25px;
+    width: 290px;
+    height: 60px;
+    margin: 12px;
+    border-radius: 10%;
+    background: #5c4e4e;
+}
+.btn{
+    font-size: 24px;
+    width: 48px;
+    height: 44px;
+    background: #301934;
+    margin: 10px 5px;
+    padding: 5px;
+    border-radius: 20%;
+    border: 2px solid black;
+}
